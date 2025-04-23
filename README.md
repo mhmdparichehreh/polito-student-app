@@ -1,1 +1,1 @@
-In this project, we are working on the PoliTo Student Application, specifically on the map section, to fix its bugs and issues using innovative solutions.
+Developing an innovative and user-friendly solution to resolve bugs and enhance the map functionality of the PoliTo Student Application, leveraging QGIS, PostgreSQL, and advanced routing algorithms for improved spatial data handling and navigation.
